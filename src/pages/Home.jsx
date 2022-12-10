@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import Announcement from "../components/Announcement";
 import Categories from "../components/Categories";
 import Footer from "../components/Footer";

@@ -1,11 +1,11 @@
 // import { Routes, Route } from "react-router-dom";
 import {
-  createBrowserRouter,
+  // createBrowserRouter,
   // RouterProvider,
   Route,
-  Link,
+  // Link,
   Routes,
-  BrowserRouter,
+  // BrowserRouter,
 } from "react-router-dom";
 
 import Home from "./pages/Home";
@@ -41,22 +41,14 @@ const App = () => {
 
   return (
     <div className="App">
-      {/* <Home /> */}
-    {/* <ProductList /> */}
-    {/* <Product /> */}
-    {/* <Register /> */}
-    {/* <Login /> */}
-    <Cart />
-
-
-      {/* <Routes>
+      <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/productList" element={<ProductList />} />
         <Route path="/product" element={<Product />} />
         <Route path="/register" element={<Register />} />
         <Route path="/login" element={<Login />} />
         <Route path="/cart" element={<Cart />} />
-      </Routes> */}
+      </Routes>
 
       
       {/* <RouterProvider router={router} /> */}

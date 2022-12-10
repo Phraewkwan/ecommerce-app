@@ -1,7 +1,7 @@
 export const sliderItems = [
     {
         id: 1,
-        img: "https://freepikpsd.com/file/2019/10/family-shopping-png-1-Transparent-Images-1.png",
+        img: "https://www.pngplay.com/wp-content/uploads/7/Online-Shopping-Bag-Background-PNG-Image.png",
         title: "SUMMER SALE",
         desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
         bg: "f5fafd",
